@@ -1,5 +1,5 @@
 # 言語
-[JA](https://github.com/FrascotTech/AdminKit/Temporary-mail-address-list/README.md)
+[JA](./) / [EN](./README-EN.md)
 
 # 概要
 このリストは、使い捨てメールアドレスとして提供されているドメインをまとめたものです。スパムアカウントの登録を削減する用途などで利用することが可能です。
