@@ -9,3 +9,11 @@ assignees: ''
 
 ## Service Name & URL
 <!-- HogeMail / http://example.com -->
+
+## Other
+<!--
+ServiceName / example.com
+
+収集漏れがあり追加のアドレス名などがある場合に記載。
+Enter any additional domains due to omission of collection.
+-->
