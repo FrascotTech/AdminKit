@@ -1,8 +1,9 @@
 {
-    "LastUpdated" : "20221203",
+    "ListLastUpdated" : "20221204",
     "Services" : {
         "m.kuku.lu" : {
             "ServiceName" : "捨てメアド",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "ccmail.uk",
                 "cocoro.uk",
@@ -63,6 +64,7 @@
 
         "sute.jp" : {
             "ServiceName" : "sute.jp",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "sute.jp"
             ]
@@ -70,6 +72,7 @@
 
         "temp-mail.org" : {
             "ServiceName" : "temp-mail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "covbase.com",
                 "edinel.com",
@@ -79,6 +82,7 @@
 
         "trashmail.com" : {
             "ServiceName" : "TrashMail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "my10minutemail.com",
                 "trashmail.fr",
@@ -88,6 +92,7 @@
 
         "www.guerrillamail.com" : {
             "ServiceName" : "GuerrillaMail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "grr.la",
                 "guerrillamailblock.com",
@@ -105,6 +110,7 @@
 
         "www.mytrashmail.com" : {
             "ServiceName" : "myTrashMail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "mt2009.com",
                 "mt2014.com",
@@ -118,6 +124,7 @@
 
         "www.onetime-mail.com" : {
             "ServiceName" : "ワンタイムメール",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "otmail.jp"
             ]
@@ -125,6 +132,7 @@
 
         "xn--ecktc2ee4ct2a0f.xn--vcki1fxh883oon2c.com" : {
             "ServiceName" : "総合サービス",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "thesis-eq-ronbun.info"
             ]
@@ -132,6 +140,7 @@
 
         "10minemail.com" : {
             "ServiceName" : "10MINEMAIL",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "ceoshub.com"
             ]
@@ -139,6 +148,7 @@
 
         "10minutemail.com" : {
             "ServiceName" : "10MinuteMail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "tmmbt.net",
                 "tmmrv.org",
@@ -148,6 +158,7 @@
 
         "10minutemail.net" : {
             "ServiceName" : "10MinuteMail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "cdfaq.com",
                 "xcoxc.com"
@@ -156,6 +167,7 @@
 
         "15qm.com" : {
             "ServiceName" : "QuickMail",
+            "LastUpdated" : "20221204",
             "Domains" : [
                 "dea-21olympic.com"
             ]
