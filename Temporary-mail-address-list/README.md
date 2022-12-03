@@ -9,3 +9,10 @@ CSV形式とJSON形式でリストを公開しています。CVS形式のファ�
 
 # 追加
 追加をする場合[Issue](https://github.com/FrascotTech/AdminKit/issues/new?assignees=&labels=Add&template=add-temporary-mail-address.md&title=Add+Temporary+mail+address)を立ててください。
+
+<!--
+A-Z順で記述 (A-Z 0-9 -)
+a.com
+ab.com
+みたいなときは.は一番下なのでab.com,a.comとする
+-->

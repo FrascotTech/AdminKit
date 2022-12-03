@@ -1,0 +1,164 @@
+{
+    "LastUpdated" : "20221203",
+    "Services" : {
+        "m.kuku.lu" : {
+            "ServiceName" : "捨てメアド",
+            "Domains" : [
+                "ccmail.uk",
+                "cocoro.uk",
+                "choco.la",
+                "cream.pink",
+                "digdig.org",
+                "eay.jp",
+                "eripo.net",
+                "exdonuts.com",
+                "fanclub.pm",
+                "fukurou.ch",
+                "fuwa.be",
+                "fuwamofu.com",
+                "fuwari.be",
+                "f5.si",
+                "goatmail.uk",
+                "hamham.uk",
+                "heisei.be",
+                "honeys.be",
+                "ichigo.me",
+                "instaddr.ch",
+                "instaddr.win",
+                "kagi.be",
+                "kbox.li",
+                "macr2.com",
+                "magim.be",
+                "mama3.org",
+                "mbox.re",
+                "merry.pink",
+                "mirai.re",
+                "moimoi.re",
+                "nagi.be",
+                "na-cat.net",
+                "nekochan.fr",
+                "neko2.net",
+                "nezumi.be",
+                "nyasan.com",
+                "okinawa.li",
+                "owleyes.ch",
+                "ponp.be",
+                "quicksend.ch",
+                "risu.be",
+                "ruru.be",
+                "stayhome.li",
+                "sendnow.win",
+                "sika3.com",
+                "sofia.re",
+                "svk.jp",
+                "tapi.re",
+                "tensi.org",
+                "uma3be",
+                "usako.net",
+                "usbc.be",
+                "via.tokyo.jp",
+                "xmailer.be"
+            ]
+        },
+
+        "sute.jp" : {
+            "ServiceName" : "sute.jp",
+            "Domains" : [
+                "sute.jp"
+            ]
+        },
+
+        "temp-mail.org" : {
+            "ServiceName" : "temp-mail",
+            "Domains" : [
+                "covbase.com",
+                "edinel.com",
+                "eilnews.com"
+            ]
+        },
+
+        "trashmail.com" : {
+            "ServiceName" : "TrashMail",
+            "Domains" : [
+                "my10minutemail.com",
+                "trashmail.fr",
+                "trashmail.se"
+            ]
+        },
+
+        "www.guerrillamail.com" : {
+            "ServiceName" : "GuerrillaMail",
+            "Domains" : [
+                "grr.la",
+                "guerrillamailblock.com",
+                "guerrillamail.biz",
+                "guerrillamail.com",
+                "guerrillamail.de",
+                "guerrillamail.info",
+                "guerrillamail.net",
+                "guerrillamail.org",
+                "pokemail.net",
+                "sharklasers.com",
+                "spam4.me"
+            ]
+        },
+
+        "www.mytrashmail.com" : {
+            "ServiceName" : "myTrashMail",
+            "Domains" : [
+                "mt2009.com",
+                "mt2014.com",
+                "mt2015.com",
+                "mytrashmail.com",
+                "thankyou2010.com",
+                "trashymail.com",
+                "trash2009.com"
+            ]
+        },
+
+        "www.onetime-mail.com" : {
+            "ServiceName" : "ワンタイムメール",
+            "Domains" : [
+                "otmail.jp"
+            ]
+        },
+
+        "xn--ecktc2ee4ct2a0f.xn--vcki1fxh883oon2c.com" : {
+            "ServiceName" : "総合サービス",
+            "Domains" : [
+                "thesis-eq-ronbun.info"
+            ]
+        },
+
+        "10minemail.com" : {
+            "ServiceName" : "10MINEMAIL",
+            "Domains" : [
+                "ceoshub.com"
+            ]
+        },
+
+        "10minutemail.com" : {
+            "ServiceName" : "10MinuteMail",
+            "Domains" : [
+                "tmmbt.net",
+                "tmmrv.org",
+                "tmmwj.com"
+            ]
+        },
+
+        "10minutemail.net" : {
+            "ServiceName" : "10MinuteMail",
+            "Domains" : [
+                "cdfaq.com",
+                "xcoxc.com"
+            ]
+        },
+
+        "15qm.com" : {
+            "ServiceName" : "QuickMail",
+            "Domains" : [
+                "dea-21olympic.com"
+            ]
+        }
+    }
+}
