@@ -16,12 +16,22 @@
 
             const JsonParse = JSON.parse(document.getElementById("Input").value);
             const ServiceKey = Object.keys(JsonParse.Services);
+            console.log(ServiceKey);
 
-            for (let i = 0; i < ServiceKey.length + 1; i++){
+            console.log(ServiceKey.length);
+
+            while (true){
                 Result.push(JsonParse.Services[ServiceKey[0]].Domains);
                 ServiceKey.shift();
-            }
 
+                if (ServiceKey.length == 0){
+                    break;
+                }
+                else {
+                    ;
+                }
+            }
+            
             Result = Result.flatMap(num => num).sort();
             Result = Array.from(new Set(Result));
             document.getElementById("Output").textContent = Result;
