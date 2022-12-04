@@ -1,6 +1,13 @@
 {
-    "ListLastUpdated" : "20221204",
+    "ListLastUpdated" : "20221205",
     "Services" : {
+        "mail.tm" : {
+            "ServiceName" : "@mail.tm",
+            "Domains" : [
+                "karenkey.com"
+            ]
+        },
+
         "m.kuku.lu" : {
             "ServiceName" : "捨てメアド",
             "LastUpdated" : "20221204",
@@ -70,13 +77,63 @@
             ]
         },
 
+        "tempail.com" : {
+            "ServiceName" : "TEMPAIL",
+            "LastUpdated" : "20221205",
+            "Domains" : [
+                "gufum.com"
+            ]
+        },
+
+        "tempmailo.com" : {
+            "ServiceName" : "TEMPMAILO",
+            "LastUpdated" : "20221205",
+            "Domains" : [
+                "biz-art.biz",
+                "brand-app.biz",
+                "decabg.eu",
+                "ema-sofia.eu",
+                "finews.biz",
+                "lyft.live",
+                "pulsakita.biz",
+                "socialstudy.biz"
+            ]
+        },
+
+        "temp-mail.io" : {
+            "ServiceName" : "tempmail",
+            "LastUpdated" : "20221205",
+            "Domains" : [
+                "best-john-boats.com",
+                "block521.com",
+                "blondemorkin.com",
+                "cloud-mail.top",
+                "coffeetimer24.com",
+                "coooooool.com",
+                "dishcatfish.com",
+                "drowblock.com",
+                "kobrandly.com",
+                "klovenode.com",
+                "paperpapyrus.com",
+                "plancetose.com",
+                "popcornfly.com",
+                "superblohey.com",
+                "waterisgone.com"
+            ]
+        },
+
         "temp-mail.org" : {
             "ServiceName" : "temp-mail",
             "LastUpdated" : "20221204",
             "Domains" : [
+                "ceoshub.com",
+                "cnogs.com",
+                "cosaxu.com",
                 "covbase.com",
+                "diratu.com",
                 "edinel.com",
-                "eilnews.com"
+                "eilnews.com",
+                "dmonies.com"
             ]
         },
 
@@ -87,6 +144,14 @@
                 "my10minutemail.com",
                 "trashmail.fr",
                 "trashmail.se"
+            ]
+        },
+
+        "www.dispostable.com" : {
+            "ServiceName" : "Dispostable",
+            "LastUpdated" : "20221205",
+            "Domains" : [
+                "dispostable.com"
             ]
         },
 
