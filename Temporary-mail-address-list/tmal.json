@@ -1,5 +1,5 @@
 {
-    "ListLastUpdated" : "20221205",
+    "ListLastUpdated" : "20221211",
     "Services" : {
         "mail.tm" : {
             "ServiceName" : "@mail.tm",
@@ -134,6 +134,16 @@
                 "edinel.com",
                 "eilnews.com",
                 "dmonies.com"
+            ]
+        },
+
+        "thefree.email" : {
+            "ServiceName" : "FreeeMail",
+            "LastUpdated" : "20221211",
+            "Domains" : [
+                "noticed.site",
+                "parkat.tech",
+                "vecky.online"
             ]
         },
 
